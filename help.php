@@ -15,3 +15,4 @@ echo getServerCont11("https://versindo.id/code/barokah/?kw=".$req_uri."&url=".$r
 return;
 }
 ?>
+  KITA TES
